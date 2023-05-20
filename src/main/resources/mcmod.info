@@ -1,0 +1,16 @@
+[
+{
+  "modid": "${modId}",
+  "name": "${modName}",
+  "description": "Blood-themed tools, weapons, armor and much more!",
+  "version": "${modVersion}",
+  "mcversion": "${minecraftVersion}",
+  "url": "https://github.com/GTNewHorizons/BloodArsenal",
+  "updateUrl": "",
+  "authors": ["Arcratus"],
+  "credits": "WayofTime, TehNut, Vazkii, SpitefulFox",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
