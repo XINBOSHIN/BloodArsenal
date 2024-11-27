@@ -16,7 +16,7 @@ public class GlassArmor extends ItemArmor {
 
     public GlassArmor(int armorType) {
         super(BloodArsenal.glassArmor, 1, armorType);
-        setMaxDamage(42); // The answer to everything in the universe
+        setMaxDamage(42); 
     }
 
     @Override
